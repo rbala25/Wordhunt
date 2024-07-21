@@ -3,7 +3,7 @@
 <b>Email:</b> rishibala2007@gmail.com  
 <b>Repository:</b> https://github.com/rbala25/wordhunt
 <br>
-<b>Demo:</b> https://drive.google.com/file/d/1tO_AUnHh0qJxfuCMQtUR4q44hPh-JSbv/view?usp=sharing
+<b>Demo:</b> https://drive.google.com/file/d/1rOOPeMdRC1wpsssLQ_fWtif4zTJGB5tf/view?usp=sharing
 
 <br>
 <h3>Hardware</h3>
